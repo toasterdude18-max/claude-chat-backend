@@ -255,4 +255,3 @@ For issues or questions:
 ## License
 
 MIT
-# claude-chat-backend
